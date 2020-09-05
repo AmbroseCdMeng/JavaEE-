@@ -50,18 +50,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestProxyPattern.testCGLIBProxy (1)">
-    <configuration name="TestProxyPattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestInterceptorProxyPattern.testInterceptorJdkProxyPattern">
+    <configuration name="TestInterceptorProxyPattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DesignMode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ambrose.proxypattern.cglibproxypattern.*" />
+          <option name="PATTERN" value="com.ambrose.proxypattern.interceptor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ambrose.proxypattern.cglibproxypattern" />
-      <option name="MAIN_CLASS_NAME" value="com.ambrose.proxypattern.cglibproxypattern.TestProxyPattern" />
+      <option name="PACKAGE_NAME" value="com.ambrose.proxypattern.interceptor" />
+      <option name="MAIN_CLASS_NAME" value="com.ambrose.proxypattern.interceptor.TestInterceptorProxyPattern" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInterceptorProxyPattern.testInterceptorJdkProxyPattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesignMode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ambrose.proxypattern.interceptor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ambrose.proxypattern.interceptor" />
+      <option name="MAIN_CLASS_NAME" value="com.ambrose.proxypattern.interceptor.TestInterceptorProxyPattern" />
+      <option name="METHOD_NAME" value="testInterceptorJdkProxyPattern" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,22 +114,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestProxyPattern.testJdkProxy (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesignMode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.TestProxyPattern" />
-      <option name="METHOD_NAME" value="testJdkProxy" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestProxyPattern.testJdkProxy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DesignMode" />
       <extension name="coverage">
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestInterceptorProxyPattern.testInterceptorJdkProxyPattern" />
+        <item itemvalue="JUnit.TestInterceptorProxyPattern" />
         <item itemvalue="JUnit.TestProxyPattern.testCGLIBProxy (1)" />
         <item itemvalue="JUnit.TestProxyPattern.testCGLIBProxy" />
         <item itemvalue="JUnit.TestProxyPattern.testJdkProxy" />
-        <item itemvalue="JUnit.TestProxyPattern" />
-        <item itemvalue="JUnit.TestProxyPattern.testJdkProxy (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599119060664</updated>
-      <workItem from="1599119061960" duration="19859000" />
+      <workItem from="1599119061960" duration="27004000" />
     </task>
     <servers />
   </component>
