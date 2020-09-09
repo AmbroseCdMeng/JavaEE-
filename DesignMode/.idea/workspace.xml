@@ -14,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestObservablePattern.testObservablePattern">
+  <component name="RunManager" selected="JUnit.TestFactoryPattern.testFactoryPattern">
     <configuration name="TestChainOfResponsibilityPattern.testChainOfResponsibilityPattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DesignMode" />
       <extension name="coverage">
@@ -68,17 +68,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInterceptorProxyPattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFactoryPattern.testFactoryPattern (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DesignMode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ambrose.proxypattern.interceptor.*" />
+          <option name="PATTERN" value="com.ambrose.factorypattern.abstractfactorypattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ambrose.proxypattern.interceptor" />
-      <option name="MAIN_CLASS_NAME" value="com.ambrose.proxypattern.interceptor.TestInterceptorProxyPattern" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.ambrose.factorypattern.abstractfactorypattern" />
+      <option name="MAIN_CLASS_NAME" value="com.ambrose.factorypattern.abstractfactorypattern.TestFactoryPattern" />
+      <option name="METHOD_NAME" value="testFactoryPattern" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFactoryPattern.testFactoryPattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesignMode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ambrose.factorypattern.simplefactorypattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ambrose.factorypattern.simplefactorypattern" />
+      <option name="MAIN_CLASS_NAME" value="com.ambrose.factorypattern.simplefactorypattern.TestFactoryPattern" />
+      <option name="METHOD_NAME" value="testFactoryPattern" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,29 +132,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestProxyPattern.testCGLIBProxy (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesignMode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.TestProxyPattern" />
-      <option name="METHOD_NAME" value="testCGLIBProxy" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestFactoryPattern.testFactoryPattern" />
+        <item itemvalue="JUnit.TestFactoryPattern.testFactoryPattern (1)" />
         <item itemvalue="JUnit.TestObservablePattern.testObservablePattern" />
         <item itemvalue="JUnit.TestChainOfResponsibilityPattern.testChainOfResponsibilityPattern" />
         <item itemvalue="JUnit.TestInterceptorProxyPattern.testInterceptorJdkProxyPattern" />
-        <item itemvalue="JUnit.TestInterceptorProxyPattern" />
-        <item itemvalue="JUnit.TestProxyPattern.testCGLIBProxy (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +152,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599119060664</updated>
-      <workItem from="1599119061960" duration="42548000" />
+      <workItem from="1599119061960" duration="52809000" />
     </task>
     <servers />
   </component>
