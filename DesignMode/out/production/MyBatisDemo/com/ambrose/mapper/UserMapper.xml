@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <!DOCTYPE mapper
+                PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+                "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+        <!-- mapper.xml 的定义 -->
+        <!-- 1、namespace 对应的是接口的全限定名 -->
+        <!-- 2、xml 的文件名需要与接口类型一致 -->
+        <!-- 3、映射节点的 id 需要与接口的方法名一致 -->
+
+        <!-- 4、自动映射是通过 SQL 语句返回的列名与 POJO 对应的，如果不一样，可以通过对 SQL 列名进行别名转换 -->
+
+<mapper namespace="com.ambrose.mapper.UserMapper">
+<select id="getUser" parameterType="int" resultType="user" >
+        select id, name, gender, age, address from user where id = #{id}
+    </select>
+</mapper>

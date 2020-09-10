@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0 //EN"
+        "http:///mybatis.org/dtd/mybatis-3-config.dtd" >
+<configuration>
+    <!--  别名  -->
+    <typeAliases>
+        <!-- 为指定类定义别名,之后在 MyBatis 上下文中可以使用别名代替全限定名 -->
+        <typeAlias alias="user" type="com.ambrose.bean.User"/>
+    </typeAliases>
+
+    <!--  数据库环境  -->
+    <!--  default 指定默认环境 id  -->
+    <environments default="dev">
+        <!-- 可以配置多个环境 -->
+        <environment id="dev">
+            <!-- 配置事务管理器（使用 MyBatis 内部 JDBC 管理器方式） -->
+            <transactionManager type="JDBC"/>
+            <!-- 配置数据库（POOLED 代表使用 MyBatis 内部提供的连接方式） -->
+            <dataSource type="POOLED">
+                <!-- 这种驱动被新版本弃用 -->
+                <!-- <property name="driver" value="com.mysql.jdbc.Driver"/> -->
+                <property name="driver" value="com.mysql.cj.jdbc.Driver"/>
+                <!-- testdata 是我的数据库名称 -->
+                <property name="url" value="jdbc:mysql://localhost:3306/testdata?serverTimezone=GMT"/>
+                <property name="username" value="root"/>
+                <property name="password" value="root"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+    <!-- 引入映射器配置文件 -->
+    <mappers>
+        <mapper resource="com/ambrose/mapper/UserMapper.xml"/>
+    </mappers>
+</configuration>

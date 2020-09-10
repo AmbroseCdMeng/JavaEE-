@@ -25,7 +25,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="true" />
-    <property name="Repository.Attach.Sources" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyBatisDemo/lib" />
@@ -52,7 +52,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestBuilderPattern.testBuilderPattern">
+  <component name="RunManager" selected="JUnit.MyBatisTest.sqlMapperExecute">
+    <configuration name="MyBatisTest.sqlMapperExecute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatisDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ambrose.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ambrose.test" />
+      <option name="MAIN_CLASS_NAME" value="com.ambrose.test.MyBatisTest" />
+      <option name="METHOD_NAME" value="sqlMapperExecute" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisTest.sqlSessionExecute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatisDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ambrose.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ambrose.test" />
+      <option name="MAIN_CLASS_NAME" value="com.ambrose.test.MyBatisTest" />
+      <option name="METHOD_NAME" value="sqlSessionExecute" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestBuilderPattern.testBuilderPattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DesignMode" />
       <extension name="coverage">
@@ -64,22 +96,6 @@
       <option name="PACKAGE_NAME" value="com.ambrose.builderpattern.builderpattern" />
       <option name="MAIN_CLASS_NAME" value="com.ambrose.builderpattern.builderpattern.TestBuilderPattern" />
       <option name="METHOD_NAME" value="testBuilderPattern" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestChainOfResponsibilityPattern.testChainOfResponsibilityPattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesignMode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ambrose.chainofresponsibilitypattern.jdkchainofresponsibilitypattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ambrose.chainofresponsibilitypattern.jdkchainofresponsibilitypattern" />
-      <option name="MAIN_CLASS_NAME" value="com.ambrose.chainofresponsibilitypattern.jdkchainofresponsibilitypattern.TestChainOfResponsibilityPattern" />
-      <option name="METHOD_NAME" value="testChainOfResponsibilityPattern" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,29 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestObservablePattern.testObservablePattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesignMode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ambrose.observablepattern.observablepattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ambrose.observablepattern.observablepattern" />
-      <option name="MAIN_CLASS_NAME" value="com.ambrose.observablepattern.observablepattern.TestObservablePattern" />
-      <option name="METHOD_NAME" value="testObservablePattern" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyBatisTest.sqlMapperExecute" />
+        <item itemvalue="JUnit.MyBatisTest.sqlSessionExecute" />
         <item itemvalue="JUnit.TestBuilderPattern.testBuilderPattern" />
         <item itemvalue="JUnit.TestFactoryPattern.testFactoryPattern" />
         <item itemvalue="JUnit.TestFactoryPattern.testFactoryPattern (1)" />
-        <item itemvalue="JUnit.TestObservablePattern.testObservablePattern" />
-        <item itemvalue="JUnit.TestChainOfResponsibilityPattern.testChainOfResponsibilityPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +153,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599119060664</updated>
-      <workItem from="1599119061960" duration="64683000" />
+      <workItem from="1599119061960" duration="71115000" />
     </task>
     <servers />
   </component>
