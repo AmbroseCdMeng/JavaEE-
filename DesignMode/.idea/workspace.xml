@@ -28,7 +28,7 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyBatisDemo/lib" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -36,6 +36,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\F1680502\Desktop\javaEE\MyBatisDemo\lib" />
       <recent name="C:\Users\F1680502\Desktop\javaEE\DesignMode\lib" />
     </key>
   </component>
@@ -51,7 +52,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestFactoryPattern.testFactoryPattern">
+  <component name="RunManager" selected="JUnit.TestBuilderPattern.testBuilderPattern">
+    <configuration name="TestBuilderPattern.testBuilderPattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesignMode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ambrose.builderpattern.builderpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ambrose.builderpattern.builderpattern" />
+      <option name="MAIN_CLASS_NAME" value="com.ambrose.builderpattern.builderpattern.TestBuilderPattern" />
+      <option name="METHOD_NAME" value="testBuilderPattern" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestChainOfResponsibilityPattern.testChainOfResponsibilityPattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DesignMode" />
       <extension name="coverage">
@@ -100,22 +117,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInterceptorProxyPattern.testInterceptorJdkProxyPattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesignMode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ambrose.proxypattern.interceptor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ambrose.proxypattern.interceptor" />
-      <option name="MAIN_CLASS_NAME" value="com.ambrose.proxypattern.interceptor.TestInterceptorProxyPattern" />
-      <option name="METHOD_NAME" value="testInterceptorJdkProxyPattern" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestObservablePattern.testObservablePattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DesignMode" />
       <extension name="coverage">
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestBuilderPattern.testBuilderPattern" />
         <item itemvalue="JUnit.TestFactoryPattern.testFactoryPattern" />
         <item itemvalue="JUnit.TestFactoryPattern.testFactoryPattern (1)" />
         <item itemvalue="JUnit.TestObservablePattern.testObservablePattern" />
         <item itemvalue="JUnit.TestChainOfResponsibilityPattern.testChainOfResponsibilityPattern" />
-        <item itemvalue="JUnit.TestInterceptorProxyPattern.testInterceptorJdkProxyPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +153,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599119060664</updated>
-      <workItem from="1599119061960" duration="52809000" />
+      <workItem from="1599119061960" duration="64683000" />
     </task>
     <servers />
   </component>
