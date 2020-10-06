@@ -2,17 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16073844-01cc-4f03-a521-d53be7a9f520" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Algorithm/Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/binarysearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/binarysearch/BinarySearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/bubble/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/bubble/BubbleSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/insert/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/insert/InsertSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency/Concurrency.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency/src/com/ambrose/test/MyThreadByThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStruct/DataStruct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/DataStructTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/bitmap/Bitmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/bitmap/TestBitMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/linkedlist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/linkedlist/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/linkedlist/TwoWayLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/redblacktree/RedBlackTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/tree/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/tree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/interfaceadapterpattern/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/interfaceadapterpattern/Source.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/interfaceadapterpattern/Targetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/interfaceadapterpattern/TestAdapterPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/objectadapterpattern/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/objectadapterpattern/Source1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/objectadapterpattern/Source2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/objectadapterpattern/Targetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/objectadapterpattern/TestAdapterPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBatisDemo/MyBatisDemo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="DesignMode" />
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,113 +58,127 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1gzYoDgq2HgyTwPctjzAD6DdZa0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyBatisDemo/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/ambrose/adapterpattern/objectadapterpattern" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ambrose.adapterpattern.interfaceadapterpattern" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\F1680502\Desktop\javaEE\DesignMode\src\com\ambrose\adapterpattern\objectadapterpattern" />
+      <recent name="C:\Users\F1680502\Desktop\javaEE\DesignMode\src\com\ambrose\adapterpattern\interfaceadapterpattern" />
       <recent name="C:\Users\F1680502\Desktop\javaEE\MyBatisDemo\lib" />
       <recent name="C:\Users\F1680502\Desktop\javaEE\DesignMode\lib" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.MyBatisTest.sqlMapperExecute">
-    <configuration name="MyBatisTest.sqlMapperExecute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyBatisDemo" />
+  <component name="RunManager" selected="JUnit.InsertSortTest.test">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ambrose.test.*" />
+          <option name="PATTERN" value="com.ambrose.binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ambrose.test" />
-      <option name="MAIN_CLASS_NAME" value="com.ambrose.test.MyBatisTest" />
-      <option name="METHOD_NAME" value="sqlMapperExecute" />
+      <option name="PACKAGE_NAME" value="com.ambrose.binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="com.ambrose.binarysearch.BinarySearchTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyBatisTest.sqlSessionExecute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyBatisDemo" />
+    <configuration name="BubbleSortTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ambrose.test.*" />
+          <option name="PATTERN" value="com.ambrose.bubble.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ambrose.test" />
-      <option name="MAIN_CLASS_NAME" value="com.ambrose.test.MyBatisTest" />
-      <option name="METHOD_NAME" value="sqlSessionExecute" />
+      <option name="PACKAGE_NAME" value="com.ambrose.bubble" />
+      <option name="MAIN_CLASS_NAME" value="com.ambrose.bubble.BubbleSortTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBuilderPattern.testBuilderPattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesignMode" />
+    <configuration name="DataStructTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStruct" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ambrose.builderpattern.builderpattern.*" />
+          <option name="PATTERN" value="com.ambrose.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ambrose.builderpattern.builderpattern" />
-      <option name="MAIN_CLASS_NAME" value="com.ambrose.builderpattern.builderpattern.TestBuilderPattern" />
-      <option name="METHOD_NAME" value="testBuilderPattern" />
+      <option name="PACKAGE_NAME" value="com.ambrose" />
+      <option name="MAIN_CLASS_NAME" value="com.ambrose.DataStructTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFactoryPattern.testFactoryPattern (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesignMode" />
+    <configuration name="InsertSortTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ambrose.factorypattern.abstractfactorypattern.*" />
+          <option name="PATTERN" value="com.ambrose.insert.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ambrose.factorypattern.abstractfactorypattern" />
-      <option name="MAIN_CLASS_NAME" value="com.ambrose.factorypattern.abstractfactorypattern.TestFactoryPattern" />
-      <option name="METHOD_NAME" value="testFactoryPattern" />
+      <option name="PACKAGE_NAME" value="com.ambrose.insert" />
+      <option name="MAIN_CLASS_NAME" value="com.ambrose.insert.InsertSortTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFactoryPattern.testFactoryPattern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesignMode" />
+    <configuration name="TestBitMap.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStruct" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ambrose.factorypattern.simplefactorypattern.*" />
+          <option name="PATTERN" value="com.ambrose.bitmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ambrose.factorypattern.simplefactorypattern" />
-      <option name="MAIN_CLASS_NAME" value="com.ambrose.factorypattern.simplefactorypattern.TestFactoryPattern" />
-      <option name="METHOD_NAME" value="testFactoryPattern" />
+      <option name="PACKAGE_NAME" value="com.ambrose.bitmap" />
+      <option name="MAIN_CLASS_NAME" value="com.ambrose.bitmap.TestBitMap" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -141,14 +186,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MyBatisTest.sqlMapperExecute" />
-        <item itemvalue="JUnit.MyBatisTest.sqlSessionExecute" />
-        <item itemvalue="JUnit.TestBuilderPattern.testBuilderPattern" />
-        <item itemvalue="JUnit.TestFactoryPattern.testFactoryPattern" />
-        <item itemvalue="JUnit.TestFactoryPattern.testFactoryPattern (1)" />
+        <item itemvalue="JUnit.InsertSortTest.test" />
+        <item itemvalue="JUnit.BubbleSortTest.test" />
+        <item itemvalue="JUnit.BinarySearchTest.test" />
+        <item itemvalue="JUnit.TestBitMap.test" />
+        <item itemvalue="JUnit.DataStructTest.test" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -159,12 +205,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599119060664</updated>
-      <workItem from="1599119061960" duration="85211000" />
+      <workItem from="1599119061960" duration="94345000" />
+      <workItem from="1600149676311" duration="96229000" />
+      <workItem from="1601949312302" duration="7314000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -176,5 +224,66 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="93" key="#Project_Structure" timestamp="1601964874018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="93" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1601964874018" />
+    <state x="642" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1601964578812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="642" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601964578812" />
+    <state width="1876" height="448" key="GridCell.Tab.0.bottom" timestamp="1601968282915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="448" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601968282915" />
+    <state width="1876" height="448" key="GridCell.Tab.0.center" timestamp="1601968282915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="448" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601968282915" />
+    <state width="1876" height="448" key="GridCell.Tab.0.left" timestamp="1601968282915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="448" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601968282915" />
+    <state width="1876" height="448" key="GridCell.Tab.0.right" timestamp="1601968282915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="448" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601968282915" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1601951391168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601951391168" />
+    <state x="661" y="410" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601965248151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="410" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1601965248151" />
+    <state x="770" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601968242776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="770" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601968242776" />
+    <state x="332" y="129" key="new project wizard" timestamp="1601964867936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="332" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1601964867936" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../DataStruct/src/com/ambrose/bitmap/Bitmap.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="index &gt;&gt; 3" language="JAVA" />
+        <watch expression="bytes[0]" language="JAVA" />
+        <watch expression="bytes[1]" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

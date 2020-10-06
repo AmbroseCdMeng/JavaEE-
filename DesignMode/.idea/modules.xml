@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/../Algorithm/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/../Concurrency/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataStruct/DataStruct.iml" filepath="$PROJECT_DIR$/../DataStruct/DataStruct.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignMode.iml" filepath="$PROJECT_DIR$/DesignMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/../MyBatisDemo/MyBatisDemo.iml" filepath="$PROJECT_DIR$/../MyBatisDemo/MyBatisDemo.iml" />
     </modules>
