@@ -2,39 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16073844-01cc-4f03-a521-d53be7a9f520" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Algorithm/Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/binarysearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/binarysearch/BinarySearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/bubble/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/bubble/BubbleSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/insert/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/insert/InsertSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency/Concurrency.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Concurrency/src/com/ambrose/test/MyThreadByThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStruct/DataStruct.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/DataStructTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/bitmap/Bitmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/bitmap/TestBitMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/linkedlist/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/linkedlist/SingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/linkedlist/TwoWayLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/queue/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/redblacktree/RedBlackTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/tree/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/interfaceadapterpattern/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/interfaceadapterpattern/Source.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/interfaceadapterpattern/Targetable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/interfaceadapterpattern/TestAdapterPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/objectadapterpattern/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/objectadapterpattern/Source1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/objectadapterpattern/Source2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/objectadapterpattern/Targetable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ambrose/adapterpattern/objectadapterpattern/TestAdapterPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyBatisDemo/MyBatisDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/bucketsort/BucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/mergesort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/quicksort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/quicksort/QuickSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/radixsort/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/shellsort/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm/Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/binarysearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/binarysearch/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/binarysearch/BinarySearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/binarysearch/BinarySearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/bubble/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/bubble/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/bubble/BubbleSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/bubble/BubbleSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/insert/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/insert/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/insert/InsertSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm/src/com/ambrose/insert/InsertSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Concurrency/src/com/ambrose/test/MyThreadByThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Concurrency/src/com/ambrose/test/MyThreadByThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStruct.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStruct/DataStruct.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStruct/DataStruct.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/DataStructTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/DataStructTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/bitmap/Bitmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/bitmap/Bitmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/bitmap/TestBitMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/bitmap/TestBitMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/linkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/linkedlist/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/linkedlist/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/linkedlist/SingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/linkedlist/TwoWayLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/linkedlist/TwoWayLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/queue/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/redblacktree/RedBlackTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/redblacktree/RedBlackTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/tree/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/tree/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/tree/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStruct/src/com/ambrose/tree/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +86,7 @@
       <recent name="C:\Users\F1680502\Desktop\javaEE\DesignMode\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.InsertSortTest.test">
+  <component name="RunManager" selected="JUnit.QuickSortTest.test">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -136,22 +130,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataStructTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DataStruct" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ambrose.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ambrose" />
-      <option name="MAIN_CLASS_NAME" value="com.ambrose.DataStructTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="InsertSortTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <extension name="coverage">
@@ -168,16 +146,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBitMap.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DataStruct" />
+    <configuration name="QuickSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ambrose.bitmap.*" />
+          <option name="PATTERN" value="com.ambrose.quicksort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ambrose.bitmap" />
-      <option name="MAIN_CLASS_NAME" value="com.ambrose.bitmap.TestBitMap" />
+      <option name="PACKAGE_NAME" value="com.ambrose.quicksort" />
+      <option name="MAIN_CLASS_NAME" value="com.ambrose.quicksort.QuickSortTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSortTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ambrose.quicksort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ambrose.quicksort" />
+      <option name="MAIN_CLASS_NAME" value="com.ambrose.quicksort.QuickSortTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -186,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.QuickSortTest.test" />
+        <item itemvalue="JUnit.QuickSortTest" />
         <item itemvalue="JUnit.InsertSortTest.test" />
         <item itemvalue="JUnit.BubbleSortTest.test" />
         <item itemvalue="JUnit.BinarySearchTest.test" />
-        <item itemvalue="JUnit.TestBitMap.test" />
-        <item itemvalue="JUnit.DataStructTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +200,7 @@
       <updated>1599119060664</updated>
       <workItem from="1599119061960" duration="94345000" />
       <workItem from="1600149676311" duration="96229000" />
-      <workItem from="1601949312302" duration="7314000" />
+      <workItem from="1601949312302" duration="15820000" />
     </task>
     <servers />
   </component>
@@ -235,22 +228,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="642" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601964578812" />
-    <state width="1876" height="448" key="GridCell.Tab.0.bottom" timestamp="1601968282915">
+    <state width="1876" height="448" key="GridCell.Tab.0.bottom" timestamp="1602052450619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="448" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601968282915" />
-    <state width="1876" height="448" key="GridCell.Tab.0.center" timestamp="1601968282915">
+    <state width="1876" height="448" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602052450619" />
+    <state width="1876" height="448" key="GridCell.Tab.0.center" timestamp="1602052450618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="448" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601968282915" />
-    <state width="1876" height="448" key="GridCell.Tab.0.left" timestamp="1601968282915">
+    <state width="1876" height="448" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602052450618" />
+    <state width="1876" height="448" key="GridCell.Tab.0.left" timestamp="1602052450618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="448" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601968282915" />
-    <state width="1876" height="448" key="GridCell.Tab.0.right" timestamp="1601968282915">
+    <state width="1876" height="448" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602052450618" />
+    <state width="1876" height="448" key="GridCell.Tab.0.right" timestamp="1602052450619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="448" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601968282915" />
+    <state width="1876" height="448" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602052450619" />
     <state x="461" y="151" key="SettingsEditor" timestamp="1601951391168">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
